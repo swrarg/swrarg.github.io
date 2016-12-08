@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481217497594">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481218425042">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_master.css" crc="505433466" ref="información:perfil:index:entradas"/>
-    <file name="informaci_n.css" crc="196527564" ref="información"/>
-    <file name="perfil.css" crc="4114479337" ref="perfil"/>
-    <file name="index.css" crc="3973333269" ref="index"/>
-    <file name="entradas.css" crc="4174089140" ref="entradas"/>
+    <file name="master_master.css" crc="4182972200" ref="información:perfil:index:entradas"/>
+    <file name="informaci_n.css" crc="4268748388" ref="información"/>
+    <file name="perfil.css" crc="64250683" ref="perfil"/>
+    <file name="index.css" crc="3905570801" ref="index"/>
+    <file name="entradas.css" crc="3929722383" ref="entradas"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información"/>
@@ -40,9 +40,10 @@
     <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información"/>
     <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información"/>
     <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información"/>
+    <file name="dmca-badge-w100-5x1-08.png" crc="4049597294" seo="true" ref="index:entradas:perfil:información"/>
   </folder>
-  <file name="index.html" crc="275532125" seo="true" mt="1481213954751" redirect="true"/>
-  <file name="entradas.html" crc="4016316613" seo="true" mt="1481214050737" redirect="true"/>
-  <file name="perfil.html" crc="368291616" seo="true" mt="1481214058245" redirect="true"/>
-  <file name="información.html" crc="4000003194" seo="true" mt="1481217036972" redirect="true"/>
+  <file name="index.html" crc="3852263136" seo="true" mt="1481218387346" redirect="true"/>
+  <file name="entradas.html" crc="4075328860" seo="true" mt="1481218387346" redirect="true"/>
+  <file name="perfil.html" crc="427782532" seo="true" mt="1481218387346" redirect="true"/>
+  <file name="información.html" crc="4219926446" seo="true" mt="1481218387346" redirect="true"/>
 </manifest>

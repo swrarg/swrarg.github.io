@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://swrarg.tk/informaci%C3%B3n.html</loc>
+    <loc>http://swrarg.tk/perfil.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://swrarg.tk/perfil.html</loc>
+    <loc>http://swrarg.tk/informaci%C3%B3n.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,19 +133,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://swrarg.tk/images/dmca-badge-w100-5x1-08.png</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://swrarg.tk/images/le%20chic_2x.png</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://swrarg.tk/images/le%20chic.png</loc>
+    <loc>http://swrarg.tk/images/bandalai-bandalai.png</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://swrarg.tk/images/bandalai-bandalai.png</loc>
+    <loc>http://swrarg.tk/images/le%20chic.png</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
