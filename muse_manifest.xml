@@ -1,0 +1,48 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481217497594">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_master.css" crc="505433466" ref="información:perfil:index:entradas"/>
+    <file name="informaci_n.css" crc="196527564" ref="información"/>
+    <file name="perfil.css" crc="4114479337" ref="perfil"/>
+    <file name="index.css" crc="3973333269" ref="index"/>
+    <file name="entradas.css" crc="4174089140" ref="entradas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información"/>
+    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información"/>
+    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información"/>
+    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información"/>
+  </folder>
+  <folder name="images">
+    <file name="le chic.png" crc="4202031814" seo="true" ref="index"/>
+    <file name="le chic_2x.png" crc="3877788796" seo="true" ref="index"/>
+    <file name="bestiario.png" crc="4181900043" seo="true" ref="index"/>
+    <file name="bestiario_2x.png" crc="4091769230" seo="true" ref="index"/>
+    <file name="bandalia.png" crc="518901316" seo="true" ref="index"/>
+    <file name="bandalia_2x.png" crc="250137847" seo="true" ref="index"/>
+    <file name="casino.png" crc="37409531" seo="true" ref="index"/>
+    <file name="casino_2x.png" crc="212526467" seo="true" ref="index"/>
+    <file name="uthopia.png" crc="22015497" seo="true" ref="index"/>
+    <file name="uthopia_2x.png" crc="448023759" seo="true" ref="index"/>
+    <file name="bandalai-rectángulo redondeado 1.png" crc="321993994" seo="true" ref="información"/>
+    <file name="bandalai-rectángulo redondeado 1_2x.png" crc="331961173" seo="true" ref="información"/>
+    <file name="bandalai-bandalai.png" crc="56987487" seo="true" ref="información"/>
+    <file name="bandalai-bandalai_2x.png" crc="4242679589" seo="true" ref="información"/>
+    <file name="bestiario contacto.png" crc="115195585" seo="true" ref="información"/>
+    <file name="bestiario contacto_2x.png" crc="4147741647" seo="true" ref="información"/>
+    <file name="le chic contacto.jpg" crc="85287817" seo="true" ref="información"/>
+    <file name="le chic contacto_2x.jpg" crc="460095900" seo="true" ref="información"/>
+    <file name="casino contacto.png" crc="3973111191" seo="true" ref="información"/>
+    <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información"/>
+    <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información"/>
+    <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información"/>
+  </folder>
+  <file name="index.html" crc="275532125" seo="true" mt="1481213954751" redirect="true"/>
+  <file name="entradas.html" crc="4016316613" seo="true" mt="1481214050737" redirect="true"/>
+  <file name="perfil.html" crc="368291616" seo="true" mt="1481214058245" redirect="true"/>
+  <file name="información.html" crc="4000003194" seo="true" mt="1481217036972" redirect="true"/>
+</manifest>
