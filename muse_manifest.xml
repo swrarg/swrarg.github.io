@@ -1,26 +1,21 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481221972676">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481309017168">
   <folder name="css">
     <file name="site_global.css" crc="3784438662"/>
-    <file name="master_master.css" crc="4182972200" ref="información:perfil:index:entradas:uthopia:bestiario:le-chic:casino:bandalai"/>
+    <file name="master_master.css" crc="4182972200" ref="información:perfil:index:entradas"/>
     <file name="informaci_n.css" crc="3963422242" ref="información"/>
     <file name="perfil.css" crc="125527820" ref="perfil"/>
     <file name="index.css" crc="3905570801" ref="index"/>
-    <file name="entradas.css" crc="339412897" ref="entradas"/>
-    <file name="uthopia.css" crc="133115920" ref="uthopia"/>
-    <file name="bestiario.css" crc="4075740611" ref="bestiario"/>
-    <file name="le-chic.css" crc="484291168" ref="le-chic"/>
-    <file name="casino.css" crc="315190322" ref="casino"/>
-    <file name="bandalai.css" crc="200325570" ref="bandalai"/>
+    <file name="entradas.css" crc="172177786" ref="entradas"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
-    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información"/>
+    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información"/>
+    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información"/>
+    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información"/>
   </folder>
   <folder name="images">
     <file name="le chic.png" crc="4202031814" seo="true" ref="index"/>
@@ -45,15 +40,10 @@
     <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información"/>
     <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información"/>
     <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información"/>
-    <file name="dmca-badge-w100-5x1-08.png" crc="4049597294" seo="true" ref="index:entradas:perfil:información:bandalai:bestiario:le-chic:casino:uthopia"/>
+    <file name="dmca-badge-w100-5x1-08.png" crc="4049597294" seo="true" ref="index:entradas:perfil:información"/>
   </folder>
-  <file name="index.html" crc="3847738688" seo="true" mt="1481221379235" redirect="true"/>
-  <file name="entradas.html" crc="47996190" seo="true" mt="1481221931099" redirect="true"/>
-  <file name="perfil.html" crc="3985355258" seo="true" mt="1481221936981" redirect="true"/>
-  <file name="información.html" crc="495058774" seo="true" mt="1481221547743" redirect="true"/>
-  <file name="bandalai.html" crc="427413791" seo="true" mt="1481221379235" redirect="true"/>
-  <file name="bestiario.html" crc="98721737" seo="true" mt="1481221379235" redirect="true"/>
-  <file name="le-chic.html" crc="3897362079" seo="true" mt="1481221379235" redirect="true"/>
-  <file name="casino.html" crc="3983233149" seo="true" mt="1481221379235" redirect="true"/>
-  <file name="uthopia.html" crc="511102293" seo="true" mt="1481221379235" redirect="true"/>
+  <file name="index.html" crc="3847738688" seo="true" mt="1481308996914" redirect="true"/>
+  <file name="entradas.html" crc="4048636722" seo="true" mt="1481308996916" redirect="true"/>
+  <file name="perfil.html" crc="3985355258" seo="true" mt="1481308996914" redirect="true"/>
+  <file name="información.html" crc="495058774" seo="true" mt="1481308996914" redirect="true"/>
 </manifest>
