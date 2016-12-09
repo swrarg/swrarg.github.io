@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481309017168">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481309747953">
   <folder name="css">
     <file name="site_global.css" crc="3784438662"/>
     <file name="master_master.css" crc="4182972200" ref="información:perfil:index:entradas"/>
     <file name="informaci_n.css" crc="3963422242" ref="información"/>
     <file name="perfil.css" crc="125527820" ref="perfil"/>
     <file name="index.css" crc="3905570801" ref="index"/>
-    <file name="entradas.css" crc="172177786" ref="entradas"/>
+    <file name="entradas.css" crc="3760995415" ref="entradas"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información"/>
@@ -43,7 +43,7 @@
     <file name="dmca-badge-w100-5x1-08.png" crc="4049597294" seo="true" ref="index:entradas:perfil:información"/>
   </folder>
   <file name="index.html" crc="3847738688" seo="true" mt="1481308996914" redirect="true"/>
-  <file name="entradas.html" crc="4048636722" seo="true" mt="1481308996916" redirect="true"/>
+  <file name="entradas.html" crc="4206906343" seo="true" mt="1481309688151" redirect="true"/>
   <file name="perfil.html" crc="3985355258" seo="true" mt="1481308996914" redirect="true"/>
   <file name="información.html" crc="495058774" seo="true" mt="1481308996914" redirect="true"/>
 </manifest>
