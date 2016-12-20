@@ -1,21 +1,22 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1481309747953">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1482233028820">
   <folder name="css">
     <file name="site_global.css" crc="3784438662"/>
-    <file name="master_master.css" crc="4182972200" ref="información:perfil:index:entradas"/>
-    <file name="informaci_n.css" crc="3963422242" ref="información"/>
-    <file name="perfil.css" crc="125527820" ref="perfil"/>
-    <file name="index.css" crc="3905570801" ref="index"/>
-    <file name="entradas.css" crc="3760995415" ref="entradas"/>
+    <file name="master_master.css" crc="461178409" ref="perfil:entradas:información:index:contacto-email"/>
+    <file name="perfil.css" crc="238804192" ref="perfil"/>
+    <file name="entradas.css" crc="3951827382" ref="entradas"/>
+    <file name="informaci_n.css" crc="3979491772" ref="información"/>
+    <file name="index.css" crc="432936058" ref="index"/>
+    <file name="contacto-email.css" crc="85938037" ref="contacto-email"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información"/>
-    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información"/>
-    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información"/>
-    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información:contacto-email"/>
   </folder>
   <folder name="images">
     <file name="le chic.png" crc="4202031814" seo="true" ref="index"/>
@@ -28,6 +29,9 @@
     <file name="casino_2x.png" crc="212526467" seo="true" ref="index"/>
     <file name="uthopia.png" crc="22015497" seo="true" ref="index"/>
     <file name="uthopia_2x.png" crc="448023759" seo="true" ref="index"/>
+    <file name="email black.png" crc="354026614" seo="true" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="email black_2x.png" crc="237799514" seo="true" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="dmca-badge-w100-5x1-08.png" crc="222862854" seo="true" ref="index:entradas:perfil:información:contacto-email"/>
     <file name="bandalai-rectángulo redondeado 1.png" crc="321993994" seo="true" ref="información"/>
     <file name="bandalai-rectángulo redondeado 1_2x.png" crc="331961173" seo="true" ref="información"/>
     <file name="bandalai-bandalai.png" crc="56987487" seo="true" ref="información"/>
@@ -40,10 +44,12 @@
     <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información"/>
     <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información"/>
     <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información"/>
-    <file name="dmca-badge-w100-5x1-08.png" crc="4049597294" seo="true" ref="index:entradas:perfil:información"/>
+    <file name="orcid-logo.png" crc="521248752" seo="true" ref="index:entradas:perfil:información:contacto-email"/>
+    <file name="orcid-logo_2x.png" crc="343551914" seo="true" ref="index:entradas:perfil:información:contacto-email"/>
   </folder>
-  <file name="index.html" crc="3847738688" seo="true" mt="1481308996914" redirect="true"/>
-  <file name="entradas.html" crc="4206906343" seo="true" mt="1481309688151" redirect="true"/>
-  <file name="perfil.html" crc="3985355258" seo="true" mt="1481308996914" redirect="true"/>
-  <file name="información.html" crc="495058774" seo="true" mt="1481308996914" redirect="true"/>
+  <file name="index.html" crc="442944764" seo="true" mt="1482232741192" redirect="true"/>
+  <file name="entradas.html" crc="175041394" seo="true" mt="1482232741192" redirect="true"/>
+  <file name="perfil.html" crc="43882215" seo="true" mt="1482232741192" redirect="true"/>
+  <file name="información.html" crc="358699460" seo="true" mt="1482232741192" redirect="true"/>
+  <file name="contacto-email.html" crc="3876685082" seo="true" mt="1482232741192" redirect="true"/>
 </manifest>
