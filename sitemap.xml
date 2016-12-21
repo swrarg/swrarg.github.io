@@ -2,193 +2,229 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://swrarg.tk/index.html</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/lista.html</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/rrpp.html</loc>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/contacto-email.html</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/informaci%C3%B3n.html</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/perfil.html</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/entradas.html</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bandalia_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/casino.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/casino_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/uthopia.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/uthopia_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/email%20black.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/email%20black_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/dmca-badge-w100-5x1-08.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/bandalai-rect%C3%A1ngulo%20redondeado%201.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/bandalai-rect%C3%A1ngulo%20redondeado%201_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bestiario_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bandalia.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bestiario%20contacto.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bestiario%20contacto_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/le%20chic%20contacto.jpg</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/le%20chic%20contacto_2x.jpg</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/casino%20contacto.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/casino%20contacto_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/uthopia%20contacto.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/uthopia%20contacto_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/orcid-logo.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/orcid-logo_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/le%20chic_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/bestiario.png</loc>
-    <lastmod>2016-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://swrarg.tk/images/le%20chic.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/bandalai-bandalai.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://swrarg.tk/images/bandalai-bandalai_2x.png</loc>
-    <lastmod>2016-12-20</lastmod>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bestiario%20contacto.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bandalia_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/casino.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/le%20chic%20contacto_2x.jpg</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/casino%20contacto.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/casino%20contacto_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/uthopia%20contacto.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/uthopia%20contacto_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/orcid-logo.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/orcid-logo_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/lista.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/lista_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/rrpp.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/rrpp_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/le%20chic_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bandalia.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bestiario_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bestiario.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/le%20chic.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/bestiario%20contacto_2x.png</loc>
+    <lastmod>2016-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://swrarg.tk/images/le%20chic%20contacto.jpg</loc>
+    <lastmod>2016-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
