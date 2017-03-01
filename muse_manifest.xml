@@ -1,72 +1,108 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1482349600528">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swrarg.tk" resolutions="1x,2x" timestamp="1488367526000">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_master.css" crc="419838560" ref="phone>rrpp:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>lista:phone>index"/>
+      <file name="nomq_preview_master_master.css" crc="78388407" ref="phone>rrpp:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>lista:phone>index"/>
+      <file name="rrpp.css" crc="50339589" ref="phone>rrpp"/>
+      <file name="nomq_rrpp.css" crc="3895140308" ref="phone>rrpp"/>
+      <file name="entradas.css" crc="3936736438" ref="phone>entradas"/>
+      <file name="perfil.css" crc="3767652040" ref="phone>perfil"/>
+      <file name="informaci_n.css" crc="3966694981" ref="phone>información"/>
+      <file name="contacto-email.css" crc="4280811647" ref="phone>contacto-email"/>
+      <file name="nomq_contacto-email.css" crc="3924015045" ref="phone>contacto-email"/>
+      <file name="lista.css" crc="4228106204" ref="phone>lista"/>
+      <file name="nomq_lista.css" crc="4155665652" ref="phone>lista"/>
+      <file name="index.css" crc="535501263" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3949943895" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="entradas.html" crc="3766689704" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="perfil.html" crc="93046676" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="información.html" crc="336413003" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="contacto-email.html" crc="3986679554" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="rrpp.html" crc="134085336" seo="true" mt="1488367429565" redirect="true"/>
+    <file name="lista.html" crc="37900834" seo="true" mt="1488367429565" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="427717540"/>
-    <file name="master_master.css" crc="152949959" ref="perfil:entradas:información:index:contacto-email:lista:rrpp"/>
-    <file name="perfil.css" crc="3997559891" ref="perfil"/>
-    <file name="entradas.css" crc="456786320" ref="entradas"/>
-    <file name="informaci_n.css" crc="511491121" ref="información"/>
-    <file name="index.css" crc="4093790591" ref="index"/>
-    <file name="contacto-email.css" crc="513352420" ref="contacto-email"/>
-    <file name="lista.css" crc="3842346979" ref="lista"/>
-    <file name="rrpp.css" crc="492106740" ref="rrpp"/>
-    <file name="nomq_preview_master_master.css" crc="3824530138" ref="contacto-email:entradas:lista:rrpp:información:perfil:index"/>
-    <file name="nomq_contacto-email.css" crc="3924015045" ref="contacto-email"/>
-    <file name="nomq_lista.css" crc="4155665652" ref="lista"/>
-    <file name="nomq_rrpp.css" crc="3895140308" ref="rrpp"/>
+    <file name="master_master.css" crc="490355188" ref="perfil:entradas:información:index:contacto-email:lista:rrpp"/>
+    <file name="perfil.css" crc="172935458" ref="perfil"/>
+    <file name="entradas.css" crc="4092173564" ref="entradas"/>
+    <file name="informaci_n.css" crc="4181020006" ref="información"/>
+    <file name="index.css" crc="4186405907" ref="index"/>
+    <file name="contacto-email.css" crc="202196244" ref="contacto-email"/>
+    <file name="lista.css" crc="191362871" ref="lista"/>
+    <file name="rrpp.css" crc="4095823948" ref="rrpp"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="contacto-email:rrpp:lista"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="museutils.js" crc="3851988764" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="whatinput.js" crc="86476730" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="require.js" crc="4108833657" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index:contacto-email:información:entradas:rrpp:lista:perfil"/>
   </folder>
   <folder name="images">
-    <file name="le chic.png" crc="4202031814" seo="true" ref="index"/>
-    <file name="le chic_2x.png" crc="3877788796" seo="true" ref="index"/>
-    <file name="bestiario.png" crc="4181900043" seo="true" ref="index"/>
-    <file name="bestiario_2x.png" crc="4091769230" seo="true" ref="index"/>
-    <file name="bandalia.png" crc="518901316" seo="true" ref="index"/>
-    <file name="bandalia_2x.png" crc="250137847" seo="true" ref="index"/>
-    <file name="casino.png" crc="37409531" seo="true" ref="index"/>
-    <file name="casino_2x.png" crc="212526467" seo="true" ref="index"/>
-    <file name="uthopia.png" crc="22015497" seo="true" ref="index"/>
-    <file name="uthopia_2x.png" crc="448023759" seo="true" ref="index"/>
-    <file name="email black.png" crc="354026614" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="email black_2x.png" crc="237799514" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="dmca-badge-w100-5x1-08.png" crc="222862854" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="bandalai-rectángulo redondeado 1.png" crc="321993994" seo="true" ref="información"/>
-    <file name="bandalai-rectángulo redondeado 1_2x.png" crc="331961173" seo="true" ref="información"/>
-    <file name="bandalai-bandalai.png" crc="56987487" seo="true" ref="información"/>
-    <file name="bandalai-bandalai_2x.png" crc="4242679589" seo="true" ref="información"/>
-    <file name="bestiario contacto.png" crc="115195585" seo="true" ref="información"/>
-    <file name="bestiario contacto_2x.png" crc="4147741647" seo="true" ref="información"/>
-    <file name="le chic contacto.jpg" crc="85287817" seo="true" ref="información"/>
-    <file name="le chic contacto_2x.jpg" crc="460095900" seo="true" ref="información"/>
-    <file name="casino contacto.png" crc="3973111191" seo="true" ref="información"/>
-    <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información"/>
-    <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información"/>
-    <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información"/>
-    <file name="orcid-logo.png" crc="521248752" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="orcid-logo_2x.png" crc="343551914" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="master-favicon.ico" crc="3970250620" ref="index"/>
-    <file name="u223-4.png" crc="491120269" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="u223-4_2x.png" crc="238185227" ref="index:entradas:perfil:información:contacto-email:rrpp:lista"/>
-    <file name="lista.png" crc="99870433" seo="true" ref="entradas"/>
-    <file name="lista_2x.png" crc="3945399515" seo="true" ref="entradas"/>
-    <file name="rrpp.png" crc="275174116" seo="true" ref="entradas"/>
-    <file name="rrpp_2x.png" crc="465998054" seo="true" ref="entradas"/>
-    <file name="blank.gif" crc="4208392903" ref="contacto-email:rrpp:lista"/>
+    <file name="le chic.png" crc="36000659" seo="true" ref="index"/>
+    <file name="le chic_2x.png" crc="4129912078" seo="true" ref="index"/>
+    <file name="bestiario.png" crc="49893073" seo="true" ref="index"/>
+    <file name="bestiario_2x.png" crc="532923192" seo="true" ref="index"/>
+    <file name="bandalia.png" crc="87110930" seo="true" ref="index"/>
+    <file name="bandalia_2x.png" crc="3937219726" seo="true" ref="index"/>
+    <file name="casino.png" crc="18701492" seo="true" ref="index"/>
+    <file name="casino_2x.png" crc="65817791" seo="true" ref="index"/>
+    <file name="uthopia.png" crc="496793908" seo="true" ref="index"/>
+    <file name="uthopia_2x.png" crc="448023759" seo="true" ref="index:phone>index"/>
+    <file name="email black.png" crc="354026614" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="email black_2x.png" crc="237799514" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="dmca-badge-w100-5x1-08.png" crc="222862854" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="bandalai-rectángulo redondeado 1.png" crc="321993994" seo="true" ref="información:phone>información"/>
+    <file name="bandalai-rectángulo redondeado 1_2x.png" crc="331961173" seo="true" ref="información:phone>información"/>
+    <file name="bandalai-bandalai.png" crc="56987487" seo="true" ref="información:phone>información"/>
+    <file name="bandalai-bandalai_2x.png" crc="4242679589" seo="true" ref="información:phone>información"/>
+    <file name="bestiario contacto.png" crc="115195585" seo="true" ref="información:phone>información"/>
+    <file name="bestiario contacto_2x.png" crc="4147741647" seo="true" ref="información:phone>información"/>
+    <file name="le chic contacto.jpg" crc="85287817" seo="true" ref="información:phone>información"/>
+    <file name="le chic contacto_2x.jpg" crc="460095900" seo="true" ref="información:phone>información"/>
+    <file name="casino contacto.png" crc="3973111191" seo="true" ref="información:phone>información"/>
+    <file name="casino contacto_2x.png" crc="220300649" seo="true" ref="información:phone>información"/>
+    <file name="uthopia contacto.png" crc="3915049316" seo="true" ref="información:phone>información"/>
+    <file name="uthopia contacto_2x.png" crc="459189360" seo="true" ref="información:phone>información"/>
+    <file name="orcid-logo.png" crc="521248752" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="orcid-logo_2x.png" crc="343551914" seo="true" ref="index:entradas:perfil:información:contacto-email:rrpp:lista:phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="master-favicon.ico" crc="3970250620" ref="phone>index"/>
+    <file name="u223-4.png" crc="491120269" ref="phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="u223-4_2x.png" crc="238185227" ref="phone>index:phone>entradas:phone>perfil:phone>información:phone>contacto-email:phone>rrpp:phone>lista"/>
+    <file name="lista.png" crc="99870433" seo="true" ref="entradas:phone>entradas"/>
+    <file name="lista_2x.png" crc="3945399515" seo="true" ref="entradas:phone>entradas"/>
+    <file name="rrpp.png" crc="275174116" seo="true" ref="entradas:phone>entradas"/>
+    <file name="rrpp_2x.png" crc="465998054" seo="true" ref="entradas:phone>entradas"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>contacto-email:phone>rrpp:phone>lista:index"/>
+    <file name="le chic342x193.png" crc="4202031814" seo="true" ref="phone>index"/>
+    <file name="le chic342x193_2x.png" crc="3877788796" seo="true" ref="phone>index"/>
+    <file name="bestiario343x193.png" crc="4181900043" seo="true" ref="phone>index"/>
+    <file name="bestiario343x193_2x.png" crc="4091769230" seo="true" ref="phone>index"/>
+    <file name="bandalia342x193.png" crc="518901316" seo="true" ref="phone>index"/>
+    <file name="bandalia342x193_2x.png" crc="250137847" seo="true" ref="phone>index"/>
+    <file name="casino342x193.png" crc="37409531" seo="true" ref="phone>index"/>
+    <file name="casino342x193_2x.png" crc="212526467" seo="true" ref="phone>index"/>
+    <file name="uthopia342x193.png" crc="22015497" seo="true" ref="phone>index"/>
+    <file name="u6969-4.png" crc="491120269" ref="index:contacto-email:información:entradas:rrpp:lista:perfil"/>
+    <file name="u6969-4_2x.png" crc="238185227" ref="index:contacto-email:información:entradas:rrpp:lista:perfil"/>
   </folder>
-  <file name="index.html" crc="4183851170" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="entradas.html" crc="161378685" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="perfil.html" crc="357895175" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="información.html" crc="3983996832" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="contacto-email.html" crc="229307219" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="rrpp.html" crc="4271839809" seo="true" mt="1482349562183" redirect="true"/>
-  <file name="lista.html" crc="178215398" seo="true" mt="1482349562183" redirect="true"/>
+  <file name="index.html" crc="59924680" seo="true" mt="1488366805117" redirect="true"/>
+  <file name="entradas.html" crc="3952061251" seo="true" mt="1488366873431" redirect="true"/>
+  <file name="perfil.html" crc="3852434410" seo="true" mt="1488367134439" redirect="true"/>
+  <file name="información.html" crc="107463807" seo="true" mt="1488366805117" redirect="true"/>
+  <file name="contacto-email.html" crc="520961586" seo="true" mt="1488367480689" redirect="true"/>
+  <file name="rrpp.html" crc="3973780909" seo="true" mt="1488366925771" redirect="true"/>
+  <file name="lista.html" crc="291209476" seo="true" mt="1488366974871" redirect="true"/>
 </manifest>
